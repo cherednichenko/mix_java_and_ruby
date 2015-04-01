@@ -16,8 +16,16 @@ In two words - you have ability to call Ruby functions by using JRuby which is e
 
 # Result of running
 
-The result of running this framework could be seen by watching '/mix_java_and_ruby/features/support/logs/Result_running.mp4' movie.
-It also could be reviewed by seeing '/mix_java_and_ruby/features/support/logs/Result.png' screenshot.
+The result of running this framework could be seen by watching:
+
+    '/mix_java_and_ruby/features/support/logs/Result_running.mp4' movie.
+
+It also could be reviewed by seeing:
+
+  '/mix_java_and_ruby/features/support/logs/Result.png' screenshot.
+
+  ![alt tag](https://github.com/cherednichenko/mix_java_and_ruby/blob/master/features/support/logs/Result.png)
+
 
 # Note
 
